@@ -60,8 +60,8 @@ plain HTTP, you must type <code>http://</code> deliberately.</li>
 </ul>
 
 <h3>My server uses plain HTTP</h3>
-<p>That's supported, and Whirr shows a short note when the configured address is plain HTTP. Be aware
-that on that route your login token and media travel unencrypted, so the protection is the network
+<p>That's supported. Whirr does not warn you about it in the app, so be aware that on that route
+your login token and media travel unencrypted, and the protection is the network
 itself — a trusted LAN or a VPN tunnel. If you want encryption and your server is on a tailnet,
 Tailscale can issue a real certificate for your <code>*.ts.net</code> hostname.</p>
 
@@ -92,10 +92,17 @@ that expand far beyond a reasonable size, which protects your device against mal
 <a href="privacy.html">privacy policy</a>.</p>
 
 <h2>Contact</h2>
-<p>Bug reports, questions, and feature requests:
+<p>Bug reports and feature requests: open an issue at
+<a href="https://github.com/whirr-app/Whirr/issues">github.com/whirr-app/Whirr/issues</a>.
+Anything you would rather not post publicly:
 <a href="mailto:support@whirrapp.uk">support@whirrapp.uk</a></p>
-<p>It helps to include your device model, iOS version, the Whirr version from Settings, and what you
-expected to happen. Please don't include your server address, username, or password.</p>
+<p>The quickest route is in the app: <strong>Settings › About › Report a Problem</strong> opens the
+bug form with your Whirr version, iOS version, and device already filled in, and
+<strong>Share Diagnostics</strong> builds a short text file worth attaching. You can read the file in
+the app before sharing it; it never includes your server address, account name, or anything from
+your library.</p>
+<p>Otherwise it helps to include your device model, iOS version, the Whirr version from Settings, and
+what you expected to happen. Please don't include your server address, username, or password.</p>
 
 <footer><a href="./">Whirr</a> · <a href="privacy.html">Privacy</a></footer>
 </main>
