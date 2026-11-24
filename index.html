@@ -36,6 +36,9 @@ padding:3rem 0;border-top:1px solid var(--rule)}
 .panel p:last-child{margin-bottom:0}
 .extras{padding:3rem 0;border-top:1px solid var(--rule)}
 .extras .lead{max-width:40rem}
+.extras .intro{display:grid;grid-template-columns:1fr auto;gap:3.5rem;align-items:center}
+.pair{display:flex;gap:1.25rem}
+.pair img{display:block;width:200px;height:auto;filter:drop-shadow(0 12px 24px rgba(0,0,0,.14))}
 .cards{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem;margin-top:2rem}
 .card{background:var(--panel);border-radius:18px;padding:1.5rem}
 .card h3{font-size:1.15rem;margin:0 0 .5rem}
@@ -51,6 +54,9 @@ footer p{margin-top:1rem}
 .shot img,.hero .shot img{width:220px}
 .watch{flex-direction:column;align-items:flex-start}
 .cards{grid-template-columns:1fr}
+.extras .intro{grid-template-columns:1fr;gap:2rem}
+.pair{justify-content:center}
+.pair img{width:150px}
 }
 </style>
 </head>
@@ -88,12 +94,18 @@ show across once you know it's a keeper.</p>
 </section>
 
 <section class="extras">
+<div class="intro">
 <div class="lead">
 <h2>Skips the ads</h2>
 <p>Whirr can skip the adverts in podcasts you've downloaded. It works through each episode on your
 phone, learns the ads that keep coming round, and jumps over them as you listen. If it gets one
 wrong, one tap puts it back. If it misses one, mark it in the transcript and it'll learn it.</p>
 <p class="muted">Turn it on in Settings.</p>
+</div>
+<div class="pair">
+<img src="img/transcript.webp" width="560" height="1160" loading="lazy" alt="An episode transcript with the sponsor read marked as an ad and skipped">
+<img src="img/adskip.webp" width="560" height="1160" loading="lazy" alt="The player after jumping over an ad, with an Undo button">
+</div>
 </div>
 <div class="cards">
 <div class="card">
