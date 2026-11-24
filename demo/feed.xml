@@ -13,7 +13,7 @@
 <guid isPermaLink="false">fireside-4</guid>
 <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
 <description>Today's story is The Adventure of the Blue Carbuncle, from The Adventures of Sherlock Holmes.</description>
-<enclosure url="https://whirrapp.uk/demo/fireside-4.m4a" length="2991598" type="audio/x-m4a"/>
+<enclosure url="https://whirrapp.uk/demo/fireside-4.m4a" length="2991598" type="audio/mp4"/>
 <itunes:duration>366</itunes:duration>
 </item>
 <item>
@@ -21,7 +21,7 @@
 <guid isPermaLink="false">fireside-3</guid>
 <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
 <description>Today's story is A Case of Identity, from The Adventures of Sherlock Holmes.</description>
-<enclosure url="https://whirrapp.uk/demo/fireside-3.m4a" length="3040877" type="audio/x-m4a"/>
+<enclosure url="https://whirrapp.uk/demo/fireside-3.m4a" length="3040877" type="audio/mp4"/>
 <itunes:duration>372</itunes:duration>
 </item>
 <item>
@@ -29,7 +29,7 @@
 <guid isPermaLink="false">fireside-2</guid>
 <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
 <description>Today's story is The Red-Headed League, from The Adventures of Sherlock Holmes.</description>
-<enclosure url="https://whirrapp.uk/demo/fireside-2.m4a" length="3024121" type="audio/x-m4a"/>
+<enclosure url="https://whirrapp.uk/demo/fireside-2.m4a" length="3024121" type="audio/mp4"/>
 <itunes:duration>369</itunes:duration>
 </item>
 <item>
@@ -37,7 +37,7 @@
 <guid isPermaLink="false">fireside-1</guid>
 <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
 <description>Today's story is A Scandal in Bohemia, from The Adventures of Sherlock Holmes.</description>
-<enclosure url="https://whirrapp.uk/demo/fireside-1.m4a" length="3050180" type="audio/x-m4a"/>
+<enclosure url="https://whirrapp.uk/demo/fireside-1.m4a" length="3050180" type="audio/mp4"/>
 <itunes:duration>372</itunes:duration>
 </item>
 </channel>
