@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Fireside Stories</title>
+<link>https://whirrapp.uk/demo/</link>
+<language>en-gb</language>
+<itunes:author>Whirr demo</itunes:author>
+<description>Public-domain Sherlock Holmes stories, read aloud. A demo feed for Whirr, with a made-up sponsor.</description>
+<itunes:image href="https://whirrapp.uk/demo/artwork.png"/>
+<image><url>https://whirrapp.uk/demo/artwork.png</url><title>Fireside Stories</title><link>https://whirrapp.uk/demo/</link></image>
+<item>
+<title>4. The Adventure of the Blue Carbuncle</title>
+<guid isPermaLink="false">fireside-4</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+<description>Today's story is The Adventure of the Blue Carbuncle, from The Adventures of Sherlock Holmes.</description>
+<enclosure url="https://whirrapp.uk/demo/fireside-4.m4a" length="2991598" type="audio/x-m4a"/>
+<itunes:duration>366</itunes:duration>
+</item>
+<item>
+<title>3. A Case of Identity</title>
+<guid isPermaLink="false">fireside-3</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+<description>Today's story is A Case of Identity, from The Adventures of Sherlock Holmes.</description>
+<enclosure url="https://whirrapp.uk/demo/fireside-3.m4a" length="3040877" type="audio/x-m4a"/>
+<itunes:duration>372</itunes:duration>
+</item>
+<item>
+<title>2. The Red-Headed League</title>
+<guid isPermaLink="false">fireside-2</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+<description>Today's story is The Red-Headed League, from The Adventures of Sherlock Holmes.</description>
+<enclosure url="https://whirrapp.uk/demo/fireside-2.m4a" length="3024121" type="audio/x-m4a"/>
+<itunes:duration>369</itunes:duration>
+</item>
+<item>
+<title>1. A Scandal in Bohemia</title>
+<guid isPermaLink="false">fireside-1</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+<description>Today's story is A Scandal in Bohemia, from The Adventures of Sherlock Holmes.</description>
+<enclosure url="https://whirrapp.uk/demo/fireside-1.m4a" length="3050180" type="audio/x-m4a"/>
+<itunes:duration>372</itunes:duration>
+</item>
+</channel>
+</rss>
